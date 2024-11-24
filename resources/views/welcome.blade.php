@@ -31,6 +31,6 @@
             </div>
         </div>
 
-        <h1 class="text-center pt-5">This is Home Page</h1>
+        <h1 class="text-center pt-5">Welcome to the Online Course Platform!</h1>
     </body>
 </html>
